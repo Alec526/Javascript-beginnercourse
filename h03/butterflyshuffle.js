@@ -5,7 +5,7 @@ var randomNummer = [];
 
 while(randomNummer.length < 9) {
     random = Math.floor(Math.random() * 9) + 1;
-    if(randomNummer.lastIndexOf(random) === -1) {
+    if(randomNummer.lastIndexOf(random) == -1) {
         randomNummer.push(random);
     }
 }
