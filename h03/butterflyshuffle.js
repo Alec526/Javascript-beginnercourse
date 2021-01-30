@@ -1,3 +1,4 @@
+/*
 var fotoArray = document.getElementsByTagName("img");
 var random = 0;
 var randomNummer = [];
@@ -16,3 +17,4 @@ for(var nummer in fotoArray) {
     fotoArray[nummer].src = "./img/img" + randomNummer[random] + ".jpg";
     random++;
 }
+ */
