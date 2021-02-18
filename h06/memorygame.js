@@ -11,9 +11,9 @@ while(randomNummer.length < 18) {
     }
 }
 
-
 random = 0;
 for(var nummer in fotoArray) {
     fotoArray[nummer].src = "./img/img" + randomNummer[random] + ".jpg";
     random++;
 }
+
