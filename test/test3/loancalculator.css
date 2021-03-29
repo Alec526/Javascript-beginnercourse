@@ -1,7 +1,11 @@
+* {
+    font-family: 'Balsamiq Sans', cursive;
+}
 div#wrapper {
     margin:auto;
     padding: 20px;
-    border: 10px seagreen solid;
+    border: 20px limegreen double;
+    border-radius: 50px;
     width: 450px;
     height: 300px;
     background-color: mediumspringgreen;
@@ -14,7 +18,7 @@ h1 {
 }
 input#button {
     text-align: center;
-    padding: 15px;
+    padding: 12px;
     margin-top: 20px;
     margin-left: 150px;
     color: royalblue;
