@@ -1,0 +1,21 @@
+ * {
+     font-family: 'Balsamiq Sans', cursive;
+     box-sizing: border-box;
+ }
+#wrapper {
+    margin:auto;
+    width: 900px;
+    padding: 200px;
+}
+table, tr, td {
+    border-collapse: collapse;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid wheat;
+}
+td.uitkomst {
+    background-color: dimgrey;
+}
+td.is {
+    background-color: darkorange;
+}

@@ -1,0 +1,28 @@
+div#wrapper {
+    margin:auto;
+    padding: 20px;
+    border: 10px seagreen solid;
+    width: 450px;
+    height: 300px;
+    background-color: mediumspringgreen;
+    color: royalblue;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: royalblue;
+}
+input#button {
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+    margin-left: 150px;
+    color: royalblue;
+}
+input.tekst {
+    margin-left: 20px;
+    width: 75%;
+}
+div#test {
+    margin-left: 100px;
+}
