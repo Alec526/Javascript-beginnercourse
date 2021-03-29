@@ -14,4 +14,5 @@ function MaandelijkseVasteLasten() {
     resultaat = totaal / parseInt(month);
 
     document.getElementById("button").value = "Uitkomst: " + "$" + resultaat.toFixed(2);
+
 }
