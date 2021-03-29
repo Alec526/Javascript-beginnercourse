@@ -5,6 +5,7 @@ let totaal;
 let resultaat = 0;
 
 function MaandelijkseVasteLasten() {
+
     loan = document.getElementById("loan").value;
     interest = document.getElementById("interest").value;
     month = document.getElementById("month").value;
